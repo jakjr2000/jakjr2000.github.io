@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jack Knoll / Site Title"
 title_separator          : "-"
 name                     : &name "Jack Knoll"
 description              : &description "personal description"
@@ -39,15 +39,15 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
   github           : "jakjr2000"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # Username
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jaakjr2000
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
