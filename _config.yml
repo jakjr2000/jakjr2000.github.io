@@ -27,7 +27,7 @@ author:
   bio              : "Professional College Student"
   location         : "Annapolis, MD"
   employer         : "University of Maryland, Baltimore County"
-  uri              : # URL
+  url              : # URL
   email            : "jknoll1@umbc.edu" 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   twitter          : "jakjr_"
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "Jakjr"
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
