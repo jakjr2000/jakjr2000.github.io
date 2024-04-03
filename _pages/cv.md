@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,8 +27,10 @@ Work experience
   
 Skills
 ======
-* ArcGIS Pro
-* QGIS
+* GIS Software
+  * ArcGIS Pro
+  * QGIS
+  * RStudio (expected)
 * Teamwork
 * Microsoft Office Suite
   * Microsoft Word
