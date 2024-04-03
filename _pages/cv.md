@@ -19,14 +19,11 @@ Education
 Work experience
 ======
 * 2018-2021: Crew Member
-  * Cheeburger Cheeburger Annapolis
+  * Cheeburger Cheeburger Annapolis, MD
   * Duties includes: Taking customer orders, making milkshakes, bagging and handing out food, and cleaning the restaraunt
-  # * Supervisor: The Users
 
 * 2020-2023: Delivery Driver
   * Doordash
-  # * Duties included: Merging pull requests
-  # * Supervisor: Professor Hub
   
 Skills
 ======
@@ -38,25 +35,7 @@ Skills
   * Microsoft Powerpoint
   * Microsoft Excel
 * Customer Service
-
-# Publications
-# ======
-  # <ul>{% for post in site.publications reversed %}
-    # {% include archive-single-cv.html %}
-  # {% endfor %}</ul>
   
-# Talks
-# ======
-  # <ul>{% for post in site.talks reversed %}
-    # {% include archive-single-talk-cv.html  %}
-  # {% endfor %}</ul>
-  
-# Teaching
-# ======
-  # <ul>{% for post in site.teaching reversed %}
-    # {% include archive-single-cv.html %}
-  # {% endfor %}</ul>
-  
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
