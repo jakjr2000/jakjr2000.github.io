@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
 * B.A. in Political Science, University of Maryland, Baltimore County, 2024 (expected)
 * B.A. in Geography and Environmental Studies, University of Maryland, Baltimore County, 2024 (expected)
 * Certificate in Geographic Information Systems, University of Maryland, Baltimore County, 2024 (expected)
 * High School Diploma, Broadneck High School, 2019
 
-Work experience
+👷‍♂️ Work Experience
 ======
 * 2018-2021: Crew Member
   * Cheeburger Cheeburger Annapolis, MD
@@ -25,7 +25,7 @@ Work experience
 * 2020-2023: Delivery Driver
   * Doordash
   
-Skills
+💻 Skills
 ======
 * GIS Software
   * ArcGIS Pro
