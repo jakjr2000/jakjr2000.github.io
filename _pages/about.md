@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a student at [University of Maryland Baltimore County](https://umbc.edu).
+Greetings everybody! My name is Jack, and I welcome you to my website.
 
-📝 <mark>To edit your own home page</mark>, edit the [`about.md`](https://github.com/dillonma/dillonma.github.io/blob/master/_pages/about.md).
+I'm a 23 year resident of Annapolis, Maryland's capital. I am currently working on my degrees in both Political Science and Geography and Environmental Studies from the [University of Maryland Baltimore County](https://umbc.edu).
 
 ## What to Include on Your Homepage
 
