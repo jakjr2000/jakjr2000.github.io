@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
+title: "2022 Delaware Attorney General Results"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/2022 Delaware Attorney General Results by Precinct.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This map shows the 2022 Delaware Attorney General Results by precinct. 
