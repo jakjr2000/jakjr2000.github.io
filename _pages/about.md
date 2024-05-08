@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings everybody! My name is Jack, and I welcome you to my website.
 
-I'm a 23 year resident of Annapolis, Maryland's capital. I am currently working on my degrees in both Political Science and Geography and Environmental Studies from the [University of Maryland Baltimore County](https://umbc.edu).
+I'm a 23 year resident of Annapolis, the state capital of Maryland. I am currently working on my degrees in both Political Science and Geography and Environmental Studies from the [University of Maryland Baltimore County](https://umbc.edu).
 
 ## What to Include on Your Homepage
 
