@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project - Jack Knoll</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3, h4 {
+            color: #333;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Final Project</h1>
+        <p><strong>Jack Knoll</strong></p>
+        <p>University of Maryland Baltimore County<br>GES 486 Advanced GIS<br>Dillon Mahmoudi</p>
+        <p>
+            <strong>GitHub Depository:</strong> 
+            <a href="https://github.com/jakjr2000/" target="_blank">https://github.com/jakjr2000/</a><br>
+            <strong>GitHub Page:</strong> 
+            <a href="https://jakjr2000.github.io/" target="_blank">https://jakjr2000.github.io/</a>
+        </p>
 
+        <h2>Factors Influencing Voting Behavior in Anne Arundel County</h2>
+        <h3>Introduction and Background</h3>
+        <p>Anne Arundel County, MD, primarily situated along the western shore of the Chesapeake Bay, encompasses several towns and cities, including the state capital, Annapolis. It is known for its waterfronts, historic sites, and diverse communities. I have decided to look into why people in this region vote the way they do. In particular, I chose Anne Arundel County, as the county has previously been pretty swingy politically, voting for Democrats and Republicans in the recent presidential elections. It is also very diverse geographically and could be a good representation of the United States as a whole. Understanding the factors that push people towards voting for one political party over another is important to understanding the broader political system as a whole. In order to do this, I will be producing maps created with the help of R-Studio and QGIS. Doing this will help give visual representations that normal people can more easily understand, thus letting people think about why places vote the way they do.</p>
+
+        <h3>Data and Methods</h3>
+        <h4>Data Sources</h4>
+        <p>Data for this analysis was collected from multiple sources, including:</p>
+        <ul>
+            <li><strong>Election Results:</strong> Historical election data, including results from presidential, gubernatorial, and congressional elections, comes from the Maryland State Board of Elections.</li>
+            <li><strong>Census Data:</strong> Demographic information, such as age, gender, race, income, and education, comes from the U.S. Census Bureau.</li>
+            <li><strong>Economic Indicators:</strong> Data on employment rates, median income, industry composition, and poverty levels comes from the U.S. Bureau of Labor Statistics.</li>
+            <li><strong>Social Factors:</strong> Information on social factors, such as community engagement, access to healthcare and education, and cultural diversity, comes from the American Community Survey.</li>
+        </ul>
+        <h4>Data Processing</h4>
+        <p>Firstly, all data was downloaded from their respective sources and processed using R-Studio. Next, we merged the data together and removed any tracts that gave us problems, such as missing information. Then we are able to use a variety of tests that show how all the variables interact with each other. We can then use these tests and plug them into QGIS to make more visually appealing maps.</p>
+
+        <h3>Analysis and Results</h3>
+        <h4>Demographic Analysis</h4>
+        <p>An analysis of demographic factors revealed several key trends. Anne Arundel County has a slightly older population compared to the state average, with a higher median age. This older population has been found to be more conservative in its political beliefs, which is consistent with national trends.</p>
+
+        <h4>Economic Analysis</h4>
+        <p>Economic factors play a significant role in shaping voting patterns on the Seacoast. Towns with higher median incomes tend to lean Democratic, while those with lower median incomes are more likely to support the Republican Party. This suggests a strong correlation between economic status and political affiliation.</p>
+
+        <h4>Education Analysis</h4>
+        <p>Social factors, such as community engagement and access to services, also influence voting behavior. Towns with higher levels of community involvement and better access to healthcare and education tend to have higher Democratic support.</p>
+
+        <h3>Conclusion</h3>
+        <p>In conclusion, the factors influencing voting patterns on the New Hampshire Seacoast are diverse and multifaceted. Demographic, economic, and social factors all play a role in determining how people vote in this region. Understanding these factors is crucial for political campaigns and policymakers seeking to engage with voters on the Seacoast.</p>
+
+        <h3>Reflection</h3>
+        <p>While this research has provided valuable insights into the factors influencing voting patterns on the New Hampshire Seacoast, there are limitations to consider. The analysis is based on historical data and may not capture current trends. Additionally, the study focused on broad demographic and economic factors and did not delve into individual voter motivations.</p>
+        <p>Future research could benefit from more detailed surveys and interviews to gain a deeper understanding of voter behavior. Ongoing data collection and analysis will also be necessary to track changing political dynamics in the region.</p>
+    </div>
+</body>
+</html>
